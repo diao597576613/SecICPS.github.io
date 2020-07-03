@@ -70,7 +70,7 @@ navbar:
     visible: True
   - id: 7
     label: Contact US
-    path: /Contactus.html
+    path: /contactus.html
     visible: True
 deadlines:
   - date: 2017-7-6
