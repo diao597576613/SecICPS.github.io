@@ -45,28 +45,32 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
+    label: Call for Papers
     path: /organization.html
     visible: True
   - id: 2
-    label: Call for Papers
+    label: Submission
     path: /cfp.html
     visible: True
   - id: 3
-    label: Submission
+    label: Registration
     path: /submission.html
     visible: True
   - id: 4
-    label: Programs
+    label: Programme
     path: /program.html
     visible: True
   - id: 5
-    label: Venue
+    label: Organizers
     path: /venue.html
     visible: True
   - id: 6
-    label: Registration
+    label: Location
     path: /registration.html
+    visible: True
+  - id: 7
+    label: Contact US
+    path: /Contactus.html
     visible: True
 deadlines:
   - date: 2017-7-6
