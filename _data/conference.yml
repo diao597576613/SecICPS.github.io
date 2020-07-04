@@ -47,15 +47,15 @@ navbar:
     visible: True
   - id: 1
     label: Call for Papers
-    path: /organization.html
+    path: /cpf.html
     visible: True
   - id: 2
     label: Submission
-    path: /cfp.html
+    path: /submission.html
     visible: True
   - id: 3
     label: Registration
-    path: /submission.html
+    path: /registration.html
     visible: True
   - id: 4
     label: Programme
@@ -63,7 +63,7 @@ navbar:
     visible: True
   - id: 5
     label: Organizers
-    path: /venue.html
+    path: /organization.html
     visible: True
   - id: 6
     label: Location
