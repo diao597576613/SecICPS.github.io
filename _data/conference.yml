@@ -67,7 +67,7 @@ navbar:
     visible: True
   - id: 6
     label: Location
-    path: /registration.html
+    path: /venue.html
     visible: True
   - id: 7
     label: Contact Us
