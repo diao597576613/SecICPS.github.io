@@ -1,12 +1,13 @@
-full_title: Fifth ACM/IEEE Workshop on Hot Topics in Web Systems and Technologies
-short_title: Hotweb 2017
-email: hotweb2017@gmail.com
+full_title: First ACM International Workshop on Security and Safety for Intelligent Cyber-Physical Systems
+short_title: SecICPS 2020
+email: weidawei@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  HotWeb is a forum bringing together researchers and practitioners interested 
-  in the design, implementation, and evaluation of Internet systems and applications. 
-location: San Jose, CA, 2017
-date: October 14, 2017
-logo_path: ./assets/images/logo2017.jpg
+  SecICPS workshop is to bring together internationally leading academic and industrial
+  researchers in an effort to identify and discuss the major technical challenges and recent
+  results to meet the security and safety requirements of future ICPS’s applications in
+  various fields.
+location: SecICPS 2020
+date: to be determined
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
@@ -45,45 +46,52 @@ navbar:
     path: /
     visible: True
   - id: 1
-    label: Organization
-    path: /organization.html
+    label: Call for Papers
+    path: /cpf.html
     visible: True
   - id: 2
-    label: Call for Papers
-    path: /cfp.html
-    visible: True
-  - id: 3
     label: Submission
     path: /submission.html
     visible: True
-  - id: 4
-    label: Programs
-    path: /program.html
-    visible: True
-  - id: 5
-    label: Venue
-    path: /venue.html
-    visible: True
-  - id: 6
+  - id: 3
     label: Registration
     path: /registration.html
     visible: True
+  - id: 4
+    label: Programme
+    path: /program.html
+    visible: True
+  - id: 5
+    label: Organizers
+    path: /organization.html
+    visible: True
+  - id: 6
+    label: Location
+    path: /registration.html
+    visible: True
+  - id: 7
+    label: Contact Us
+    path: /contactus.html
+    visible: True
 deadlines:
-  - date: 2020-08-07
+  - date: Aug. 7 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Registration and Abstract
     pass_due: False
-  - date: 2020-08-28
+  - date: Aug. 28 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Submission
     pass_due: False
-  - date: 2020-09-25
+  - date: Sep 25 (Friday), 2020
     timezone: 23:59 AoE
-    text: Notification of Paper Acceptance
+    text: Notification of Acceptance
     pass_due: False
-  - date: 2020-10-09
+  - date: Oct. 9 (Monday), 2020
     timezone: 23:59 AoE
     text: Camera-Ready
+    pass_due: False
+  - date: TBD
+    text: Workshop
     pass_due: False
 news:
   - date: 2017-10-14
@@ -95,14 +103,10 @@ news:
 sponsors:
   - name: ACM
     logo_path: ./assets/images/sponsors/acm-logo.png
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
-social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
-  twitter_link:
-program_chair:
-  - name: Qun Li
-    org: College of William and Mary (USA)
+
+General chairs:
+  - name: Jianfeng Ma
+    org: Xidian University, China
     homepage: http://www.cs.wm.edu/~liqun
   - name: Songqing Chen
     org: George Mason University (USA)
