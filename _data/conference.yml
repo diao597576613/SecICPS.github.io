@@ -47,7 +47,7 @@ navbar:
     visible: True
   - id: 1
     label: Call for Papers
-    path: /cpf.html
+    path: /cfp.html
     visible: True
   - id: 2
     label: Submission
