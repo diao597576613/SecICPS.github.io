@@ -77,19 +77,20 @@ deadlines:
   - date: Aug. 7 (Friday), 2020
     timezone: 23:59 AoE
     text: Paper Registration and Abstract
+    pass_due: False
   - date: Aug. 28 (Friday), 2020
     timezone: 23:59 AoE
-    text: Submission deadline
+    text: Paper Submission
     pass_due: False
   - date: Sep 25 (Friday), 2020
     timezone: 23:59 AoE
-    text: Notification of acceptance
+    text: Notification of Acceptance
     pass_due: False
   - date: Oct. 9 (Monday), 2020
     timezone: 23:59 AoE
-    text: Camera-ready copy due
+    text: Camera-Ready
     pass_due: False
-  - date: to be determined
+  - date: TBD
     text: Workshop
     pass_due: False
 news:
